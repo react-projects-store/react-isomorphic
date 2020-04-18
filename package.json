@@ -15,7 +15,10 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1",
-    "babel-regenerator-runtime": "^6.5.0"
+    "babel-regenerator-runtime": "^6.5.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-middleware": "^1.12.0",
+    "webpack-hot-middleware": "^2.19.1"
   },
   "dependencies": {
     "express": "^4.16.1",
